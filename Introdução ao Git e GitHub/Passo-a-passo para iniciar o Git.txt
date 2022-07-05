@@ -1,5 +1,21 @@
-- Passo 1
-* Estudar todos os dias por 2h (pelo menos).
- 
-- Passo 2
-* Estudar 5h aos finais de semana.
+* Passos para criar o primeiro repositório
+* Iniciar o GIT
+* commitar os arquivos
+* Empurrar para nuvem
+
+1 - Acessar o GITHUB e criar um repositório (Create a New Repository)
+2 - Adicionar uma descrição ao repositório
+3 - Deixar o repositório como público
+4 - Acrescentar as considerações ao repositório, arquivo README.md (md é uma extensão markdown). Para saber mais sobre markdown acesse https://www.markdownguide.org/
+5 - Selecione "CRIAR"
+6 - Selecionar "CODE"
+7 - clonar "SSH ou HTTPS". (SSH se já tiver um protocolo ativo na máquina, mas caso não, use HTTPS).
+8 - Criar o caminho das pastas dentro do computador onde você queira salvar seus documentos relacionados a esse projeto
+9 - Botão direito do mouse dentro do caminho previamente criado na máquina e abrir o "GIT BASH"
+10 - Aplicar o comando GIT CLONE + endereço copiado do Git Hub (colar CTRL+V)
+11 - GIT STATUS, vai mostrar os documentos, arquivos ou pastas pendentes de serem "commitadas"
+12 - "GIT ADD ." ou GIT ADD -a , adicionará todos os arquivos pendentes em fila para serem "commitados" 
+13 - GIT COMMIT -m + "Mensagem descrevendo o que você está fazendo". Ex: "Passo-a-passo de como iniciar o GIT".
+14 - GIT PUSH ORIGIN, envia todos so commits pendentes para nuvem (GITHUB)
+
+OBS - OS COMANDOS GIT ACIMA FORAM DEIXADOS EM CAIXA ALTA PARA FÁCIL COMPREENSÃO, PORÉM NO CONSOLE É PRECISO USAR CAIXA BAIXA, OU SEJA, LETRAS MINÚSCULAS.
